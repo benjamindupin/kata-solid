@@ -14,8 +14,6 @@ Chaque package contient du code volontairement en infraction avec le principe ci
 - ISP : `src/main/java/fr/kata/solid/isp` — une interface `Worker` trop lourde pour les robots.
 - DIP : `src/main/java/fr/kata/solid/dip` — un service de notification couplé à des clients concrets.
 
-Pour chaque principe, lisez le markdown dédié dans `docs/` : il décrit le code existant, l’odeur de design et quelques pistes de refacto possibles. Gardez les tests verts pendant vos transformations.
-
 ### SOLID
 En programmation orientée objet, SOLID est un acronyme mnémonique qui regroupe cinq principes de conception destinés à produire des architectures logicielles plus compréhensibles, flexibles et maintenables. Les principes sont un sous-ensemble de nombreux principes promus par l'ingénieur logiciel et instructeur américain Robert C. Martin.
 
